@@ -16,7 +16,7 @@ Tech Stack 🛠️
 - IDE: Android Studio
 - UI: Material Design
 
-  Screenshots 📱
+Screenshots 📱
   - Empty Notes
     
   ![WhatsApp Image 2025-10-25 at 19 14 47_a7855907](https://github.com/user-attachments/assets/4b1bcb3c-9596-44ea-902d-4eb280ce4a5b)
